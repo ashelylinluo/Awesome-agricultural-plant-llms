@@ -36,7 +36,7 @@ Plant-functional-genomics and crop-breeding models. Note that **maize, wheat, ri
 |---|---|---|---|---|---|
 | PLLaMa | UC Santa Barbara | Open LLM for plant science | https://github.com/Xianjun-Yang/PLLaMa | paper | 🟢 |
 | PlantGPT (植物GPT) | South China Agricultural Univ., Tsinghua Univ. | QA system for plant functional genomics | https://www.plantgpt.icu | product | 🟢 |
-| 西南种芯-V1 (Southwest SeedCore) | Sichuan Agricultural Univ. | Maize intelligent-breeding LLM | *not found* | news | 🟢 |
+| 西南种芯-V1 (Southwest SeedCore) | Sichuan Agricultural Univ. & Boruidi | Maize intelligent-breeding LLM | https://news.sicau.edu.cn/info/1078/81476.htm | news | 🟢 |
 | fomo4 wheat / crop-design breeding suite | Nanjing Agricultural Univ. | Wheat phenotyping, digital twin, breeding design | *not found* | news | 🟢 |
 | 丰登 SeedLLM | Yazhouwan National Lab, Shanghai AI Lab, China Agricultural Univ. | Seed-industry / breeding LLM | https://seedllm.org.cn/ | product | 🟡 |
 | BreedingGPT | Peking Univ., China Mobile | Crop-breeding LLM | http://ai4b.pku-iaas.edu.cn | product | 🟡 |
@@ -60,14 +60,15 @@ Broad agricultural QA / decision-support models. Lower direct relevance to genom
 | 农科小智 V2.0 | Beijing Academy of Agriculture & Forestry Sciences | Multimodal agricultural LLM | https://llm.bjzntd.com/ | product | ⚪ |
 | CropWise AI | Syngenta | Generative AI system | https://www.cropwise.com/ | product | ⚪ |
 | Taranis Ag Assistant | Taranis | Generative AI agronomy agent | https://go.taranis.com/ag-assistant/ | product | ⚪ |
-| 九壤耘星 / 后稷 | Northwest A&F Univ. (w/ Huawei) | Domestic-compute agricultural LLMs | *not found* | news | ⚪ |
-| iMAP | Sinochem | Integrated crop-planting LLM | *not found* | news | ⚪ |
-| 万象耕耘 | China Mobile | Agricultural LLM | *not found* | news | ⚪ |
-| 稷睿 | SenseTime | Crop-planting decision LLM | *not found* | news | ⚪ |
-| 弘农 | iFlytek, Henan Agricultural Univ. | Agricultural AI platform | *not found* | news | ⚪ |
+| 九壤耘星 Jiurang Yunxing | Northwest A&F Univ. & Huawei | Domestic-compute agricultural LLM | https://news.sciencenet.cn/htmlnews/2025/8/549311.shtm | news | ⚪ |
+| 后稷 Houji | Northwest A&F Univ. | Agricultural LLM (sub-app 御锈 = wheat stripe rust) | https://news.nwafu.edu.cn/mtwx/6f0d13e9ae52448db81a41e03c68078a.htm | news | 🟡 |
+| iMAP | Sinochem | Integrated crop-planting LLM | https://www.sinochemagri.com/sinochemagri/news/xwsd/2025/8/I1409836524828098560.html | news | ⚪ |
+| 万象耕耘 Wanxiang Gengyun | China Mobile | Agricultural LLM | http://www.sasac.gov.cn/n2588025/n2588124/c33329690/content.html | news | ⚪ |
+| 稷睿 Jirui | SenseTime | Crop-planting decision LLM | *not found* (documented in a CSAE journal review, 2025) | news | ⚪ |
+| 弘农 Hongnong | iFlytek & Henan Agricultural Univ. | Agricultural AI platform | https://www.henau.edu.cn/info/1002/42341.htm | news | ⚪ |
 | 农业知识大模型 | Chinese Academy of Agricultural Sciences, CNKI | General agricultural LLM | *not found* | news | ⚪ |
-| Bayer E.L.Y. | Bayer Crop Science | Internal generative AI system | *not found* | news | ⚪ |
-| Corteva CARL | Corteva | AI tool for agronomy advisors | *not found* | news | ⚪ |
+| Bayer E.L.Y. | Bayer Crop Science | Crop-protection small language model (SLM) | https://www.bayer.com/en/agriculture/ai-for-agriculture | product | ⚪ |
+| Corteva CAIRL (Project CARL) | Corteva | GenAI agronomy assistant | https://investors.corteva.com/static-files/58e1f9f4-bad4-42da-ba42-cf050c4a238d | news | ⚪ |
 
 ## 4. Remote Sensing & Geospatial Foundation Models
 Useful for grassland mapping, biomass estimation, and field phenotyping.
@@ -81,7 +82,7 @@ Useful for grassland mapping, biomass estimation, and field phenotyping.
 | Clay | Clay Foundation | Earth-observation foundation model | https://madewithclay.org/ | product | 🟡 |
 | GeoChat | MBZUAI | Geography-aware multimodal LLM | https://mbzuai-oryx.github.io/GeoChat/ | paper | ⚪ |
 | GeoGPT | Zhejiang Lab | Geoscience foundation model | https://geogpt.zero2x.org.cn/ | product | ⚪ |
-| 坤元 Sigma Geography | CAS, Inst. of Geographic Sciences & Natural Resources Research | Multimodal geoscience LLM | *not found* | news | ⚪ |
+| 坤元 Sigma Geography | CAS, Inst. of Geographic Sciences & Natural Resources Research | Multimodal geoscience LLM | https://igsnrr.cas.cn/news/picnews/202409/t20240920_7374237.html | news | ⚪ |
 | 農耕大模型 | CAAS, Inst. of Agricultural Resources & Regional Planning | Farmland monitoring & cropland protection | *not found* | news | ⚪ |
 
 ---
@@ -105,4 +106,4 @@ If you find this list useful, please cite it as:
 
 ---
 
-*Last updated: 2026-06-11. Sources compiled from public announcements and the "作物栽培研究圈" model roundup; all entries require independent verification.*
+*Last updated: 2026-06-11. Most entries verified against official institutional / company sources on this date. Entries still marked `not found` (e.g. fomo4 wheat, 农业知识大模型, 農耕大模型, 稷睿) could not be linked to a verifiable primary source and should be treated with caution. All `news`-tagged entries are press/launch announcements without peer-reviewed evidence.*
