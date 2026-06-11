@@ -1,4 +1,4 @@
-# Awesome Agricultural & Plant Large Language Models for Grass AI-Genomics
+# # Awesome Agricultural & Plant AI Models for Grass AI-Genomics
 
 A curated list of large language models (LLMs), foundation models, and AI agents in **agriculture, plant science, and genomics** that are relevant to **grass (Poaceae) AI-driven genomics** — including genome/DNA foundation models, crop breeding and phenotyping models, and geospatial models useful for grassland monitoring.
 
@@ -99,7 +99,7 @@ See `CONTRIBUTING.md` for details.
 If you find this list useful, please cite it as:
 
 ```
-[Author(s)]. Awesome Agricultural & Plant LLMs for Grass AI-Genomics. GitHub repository, [year]. https://github.com/<your-username>/Awesome-agricultural-plant-llms
+Luo L. Awesome Agricultural & Plant AI Models for Grass AI-Genomics. GitHub repository, 2026. https://github.com/ashelylinluo/Awesome-agricultural-plant-llms
 ```
 
 *(For a stable, versioned, citable reference, archive a release via [Zenodo](https://zenodo.org/) to obtain a DOI.)*
