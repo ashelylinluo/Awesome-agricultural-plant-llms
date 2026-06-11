@@ -1,4 +1,4 @@
-# # Awesome Agricultural & Plant AI Models for Grass AI-Genomics
+# Awesome Agricultural & Plant AI Models for Grass AI-Genomics
 
 A curated list of large language models (LLMs), foundation models, and AI agents in **agriculture, plant science, and genomics** that are relevant to **grass (Poaceae) AI-driven genomics** — including genome/DNA foundation models, crop breeding and phenotyping models, and geospatial models useful for grassland monitoring.
 
