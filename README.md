@@ -29,7 +29,7 @@ Most directly relevant to grass genomics: sequence/DNA language models and multi
 | ChatNT | InstaDeep & BioNTech | Multimodal (DNA + language) biology model | https://huggingface.co/InstaDeepAI/ChatNT | paper | 🟢 |
 | xTrimo | BioMap (百图生科) | ~100B-parameter life-science foundation model | https://xtrimo.en.biomap.com/ | product | 🟡 |
 
-## 2. Plant Science & Breeding LLMs
+## 2. Plant Science & Breeding AI Models
 Plant-functional-genomics and crop-breeding models. Note that **maize, wheat, rice and other cereals are grasses**, so cereal-breeding models are highly transferable.
 
 | Model | Developer / Institution | Task / Domain | Link | Evidence | Grass relevance |
@@ -41,7 +41,7 @@ Plant-functional-genomics and crop-breeding models. Note that **maize, wheat, ri
 | 丰登 SeedLLM | Yazhouwan National Lab, Shanghai AI Lab, China Agricultural Univ. | Seed-industry / breeding LLM | https://seedllm.org.cn/ | product | 🟡 |
 | BreedingGPT | Peking Univ., China Mobile | Crop-breeding LLM | http://ai4b.pku-iaas.edu.cn | product | 🟡 |
 
-## 3. General Agricultural LLMs & Agents
+## 3. General Agricultural AI Models & Agents
 Broad agricultural QA / decision-support models. Lower direct relevance to genomics, but useful as domain context.
 
 | Model | Developer / Institution | Task / Domain | Link | Evidence | Grass relevance |
